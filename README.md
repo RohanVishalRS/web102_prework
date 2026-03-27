@@ -19,6 +19,7 @@ The following **required** functionality is completed:
 
 Here's a walkthrough of implemented features:
 
+https://github.com/user-attachments/assets/8ea7c416-eb8d-43e2-b8c5-23a2536f9b93
 
 
 <!-- Replace this with whatever GIF tool you used! -->
